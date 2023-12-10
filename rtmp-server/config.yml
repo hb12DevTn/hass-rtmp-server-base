@@ -1,0 +1,11 @@
+---
+name: RTMP Server Base
+version: dev
+slug: rtmp-server-base
+description: Docker base image for RTMP Server
+url: https://github.com/hb12devtn/hass-rtmp-server-base
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
